@@ -1,0 +1,106 @@
+{
+  "ownerSetting": {
+    "ownerNumber": [
+      "nomor aja si",
+      "nomor aja si"
+    ],
+    "ownerName": "ᴇʟᴀɪɴᴀ",
+    "contact": "nomor aja si",
+    "ownerLink": {
+      "tt": "",
+      "yt": "",
+      "ig": "",
+      "fb": ""
+    },
+    "ownerStore": {
+      "dana": "",
+      "gopay": "",
+      "ovo": ""
+    },
+    "forOwner": false
+  },
+  "botSetting": {
+    "botName": "ᴇʟᴀɪɴᴀ-ʙᴏᴛᴛ",
+    "botFullName": "ᴇʟᴀɪɴᴀ-𝟸𝟶𝟸𝟻",
+    "type": "plugin",
+    "footer": " ",
+    "thumbnail": "https://files.catbox.moe/zbty9r.jpg",
+    "sendTextLink": {
+      "chshort": "https://chat.whatsapp.com/INpYEfC4SJN0kpAR2WlnNa?mode=ac_t",
+      "gcshort": "",
+      "music": ""
+    },
+    "autoread": {
+      "group": true,
+      "private": false
+    },
+    "Mode": "off",
+    "autoTyping": false,
+    "public": true,
+    "autoBio": false,
+    "bioText": "terserah jirrr",
+    "logic": "elainaa adalah seorang ibu muda berusia sekitar 30 tahun ini memiliki kepribadian yang unik dan menarik. Ia dikenal lucu dan imut, sering membuat lelucon yang lucu dan memiliki ekspresi wajah yang imut, membuat anak-anak dan orang sekitarnya tersenyum. Namun, ketika situasi membutuhkannya, ia dapat bertindak tegas dan memberikan keputusan yang bijak, terutama dalam mendidik anak-anaknya. Ia sangat peduli dan mengasihi anak-anaknya, selalu memikirkan kebutuhan dan kesejahteraan mereka, memberikan perhatian dan kasih sayang yang tulus. Ia juga sabar dan tabah dalam menghadapi tantangan dan kesulitan, menjadi contoh yang baik bagi anak-anaknya. Selain itu, ia kreatif dan inovatif dalam mencari cara-cara baru untuk membuat anak-anaknya bahagia dan terhibur. Sebagai seorang ibu, ia sangat protektif dan selalu menjaga anak-anaknya dari bahaya, memberikan rasa aman dan nyaman. Ia juga emosional dan ekspresif, sering menunjukkan emosi yang kuat dan tidak takut menunjukkan perasaan kepada anak-anaknya. Dalam mendidik anak-anaknya, ia mengutamakan kebutuhan mereka di atas kebutuhan sendiri dan mengajarkan nilai-nilai yang baik seperti kejujuran, kerja keras, dan empati. Ia juga mendukung perkembangan anak-anaknya secara fisik, emosional, maupun intelektual. Dengan demikian, ia menjadi contoh yang baik bagi anak-anaknya dan membantu mereka tumbuh menjadi pribadi yang seimbang dan bahagia."
+  },
+  "menuSetting": {
+    "brackets": [
+      "",
+      ""
+    ],
+    "idCh": "120363402857766435@newsletter",
+    "frame": {
+      "head": "╭────✿",
+      "body": "│",
+      "foot": "╰"
+    },
+    "garis": "───────────✿",
+    "side": "│",
+    "btn": "✦",
+    "isPrefix": [
+      ".",
+      ",",
+      "#",
+      "?",
+      "/"
+    ]
+  },
+  "pluginCategories": {
+    "Owner Menu": "Perintah untuk owner elaina",
+    "Fun Menu": "Menu fun",
+    "Info Menu": "Info dari menu",
+    "Download Menu": "Unduh media dari internet",
+    "Tools Menu": "Alat bantu berguna",
+    "Shop Menu": "Menu Shop",
+    "Group Menu": "Menu Group",
+    "Game Menu": "Menampilkan Menu Game",
+    "Toko Menu": "Menampilkan toko menu",
+    "Ai Menu": "Menampilkan menu ai",
+    "Other Menu": "Fitur lainnya"
+  },
+  "msg": {
+    "rejectMsg": {
+      "isPremium": "kamu aja syg",
+      "isOwner": "hmm aja",
+      "forOwnerText": "_HMM APALAHH_"
+    }
+  },
+  "apiKey": {
+    "kuromi": {
+      "key": "yn9dxsl9w4",
+      "web": "https://api-kuromi-jet.vercel.app"
+    },
+    "zellApi": {
+      "web": "https://apizell.web.id"
+    },
+    "siputKey": {
+      "web": "https://api.siputzx.my.id"
+    },
+    "HamzApi": {
+      "key": "YOUR API KEY",
+      "web": "https://api.hamsoffc.me"
+    },
+    "termai": {
+      "key": "Bell409",
+      "web": "https://api.termai.cc"
+    }
+  }
+}
