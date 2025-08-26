@@ -1,0 +1,215 @@
+{
+  "Private": {
+    "alex": {
+      "Nomor": "6289658675858@s.whatsapp.net",
+      "noId": "bwjavmd30",
+      "autoai": false,
+      "bell": false,
+      "cmd": 201,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": true,
+        "time": 49620000,
+        "activatedAt": 1755449010045
+      },
+      "afk": {}
+    },
+    "rey.": {
+      "Nomor": "601171309678@s.whatsapp.net",
+      "noId": "itdzwmj34",
+      "autoai": false,
+      "bell": false,
+      "cmd": 12,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": false,
+        "time": 0
+      },
+      "afk": {}
+    },
+    "Shima Rin": {
+      "Nomor": "6282256746690@s.whatsapp.net",
+      "noId": "ymaxxif98",
+      "autoai": false,
+      "bell": false,
+      "cmd": 8,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": false,
+        "time": 0
+      },
+      "afk": {}
+    },
+    "Mocun": {
+      "Nomor": "6281373810524@s.whatsapp.net",
+      "noId": "onysmqa43",
+      "autoai": false,
+      "bell": false,
+      "cmd": 1,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": false,
+        "time": 0
+      },
+      "afk": {}
+    },
+    "dapa Халвадор": {
+      "Nomor": "6283844421759@s.whatsapp.net",
+      "noId": "tlicemg33",
+      "autoai": false,
+      "bell": false,
+      "cmd": 1,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": false,
+        "time": 0
+      },
+      "afk": {}
+    },
+    "xyne": {
+      "Nomor": "6287837597549@s.whatsapp.net",
+      "noId": "nitrsdu7",
+      "autoai": false,
+      "bell": false,
+      "cmd": 3,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": false,
+        "time": 0
+      },
+      "afk": {}
+    },
+    "Joe": {
+      "Nomor": "6289678734154@s.whatsapp.net",
+      "noId": "kadaslp96",
+      "autoai": false,
+      "bell": false,
+      "cmd": 2,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": false,
+        "time": 0
+      },
+      "afk": {}
+    },
+    "No_Namee": {
+      "Nomor": "6281268543915@s.whatsapp.net",
+      "noId": "hpnnfcg6",
+      "autoai": false,
+      "bell": false,
+      "cmd": 2,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": false,
+        "time": 0
+      },
+      "afk": {}
+    },
+    "Jelool": {
+      "Nomor": "212623561909@s.whatsapp.net",
+      "noId": "epttrgb4",
+      "autoai": false,
+      "bell": false,
+      "cmd": 2,
+      "claim": false,
+      "money": {
+        "amount": 300000
+      },
+      "isPremium": {
+        "isPrem": false,
+        "time": 0
+      },
+      "afk": {}
+    }
+  },
+  "Grup": {
+    "ㅤ۫ ០⃘០ 𝗺ֺ𝗮ֺ𝗯𝗮ֺ𝗿 𝗺ֺ𝗼𝗯𝗶𝗹𝗲ׅ 𝗹𝗲ׅ𝗴ֺ𝗲ׅ𝗻𝗱𝘀⤸": {
+      "Id": "120363315282193217@g.us",
+      "autoai": false,
+      "bell": false,
+      "mute": false,
+      "setWarn": 0,
+      "gbFilter": {
+        "Welcome": {
+          "welcome": true,
+          "welcomeText": "🌸 𝗡𝗮𝗺𝗮:  \n🌸 𝗨𝗺𝘂𝗿:  \n🌸 𝗔𝘀𝗮𝗹:  \n🌸 𝗥𝗮𝗻𝗸:  \n\n𝗟𝗜𝗡𝗞 𝗦𝗔𝗟𝗨𝗥𝗔𝗡 𝗕𝗬 𝗭𝗶𝘁𝘆𝗮_𝗯𝗼𝘁 \n*https://whatsapp.com/channel/0029VbAsR7DJ93wcImuxDP3e*\n✨ Salam kenal semuaa \nJangan lupa jadi teman baik aku yaa 🤍"
+        },
+        "Left": {
+          "gcLeft": false,
+          "leftText": ""
+        },
+        "link": {
+          "antilink": true,
+          "setlink": ""
+        },
+        "stiker": {
+          "antistiker": true
+        },
+        "antibot": false,
+        "antiTagSw": true,
+        "closeTime": {},
+        "openTime": {
+          "active": false
+        }
+      },
+      "antibadword": {
+        "badword": false,
+        "badwordText": ""
+      }
+    },
+    "yes": {
+      "Id": "120363402056967200@g.us",
+      "autoai": false,
+      "bell": false,
+      "mute": false,
+      "setWarn": 0,
+      "gbFilter": {
+        "Welcome": {
+          "welcome": false,
+          "welcomeText": ""
+        },
+        "Left": {
+          "gcLeft": false,
+          "leftText": ""
+        },
+        "link": {
+          "antilink": true,
+          "setlink": ""
+        },
+        "stiker": {
+          "antistiker": false
+        },
+        "antibot": false,
+        "antiTagSw": true
+      },
+      "antibadword": {
+        "badword": false,
+        "badwordText": ""
+      }
+    }
+  }
+}
